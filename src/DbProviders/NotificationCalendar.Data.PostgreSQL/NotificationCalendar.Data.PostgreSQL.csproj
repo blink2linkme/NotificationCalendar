@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NotificationCalendar.Core\NotificationCalendar.Core.csproj" />
+    <ProjectReference Include="..\..\NotificationCalendar.Core\NotificationCalendar.Core.csproj" />
   </ItemGroup>
 
 </Project>
